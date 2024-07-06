@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       create: (context) => UserProvider(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Provider',
+        title: 'Flutter by Rusdi',
         routes: {
           '/': (context) => SplashScreen(
             child: LoginPage(),
