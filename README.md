@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+### Bukti Screenshot Aplikasi sederhananya
+(https://drive.google.com/file/d/1iVuxeTNpc3we5hw6J8kUEyAeWw0b0lB0/view?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
